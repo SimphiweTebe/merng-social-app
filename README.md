@@ -1,5 +1,5 @@
 # About the project
-A social media app built on the MERNG stack. The application is similar to twitter, where users can register for an account. Then they can share, like and comment on each other's stories.
+A social media app built on the MERNG stack. The application is similar to twitter, where users can register an account. Then they can share, like and comment on each other's stories.
 
 ## Backend Techstack:
 
